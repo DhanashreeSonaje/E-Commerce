@@ -9,7 +9,7 @@ import { Product } from '../models/Product';
 export class AdminService {
   
 
-  baseUrl="http://localhost:9090/capstore/admin";
+  baseUrl="http://localhost:909/capstore/admin";
  // baseUrlMerchant="http://localhost:9091/admin/merchant";
  // baseUrl ='http://localhost:8080/Capstore/admin';
 
